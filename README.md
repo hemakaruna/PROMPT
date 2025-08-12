@@ -215,12 +215,20 @@ LLMs are advanced AI models trained on massive amounts of text data to understan
 * **Scaling Laws**: Increasing parameters, dataset size, and compute improves performance.
 * **Benefits**: Better reasoning, broader knowledge, improved fluency.
 * **Challenges**: Cost, energy usage, diminishing returns after a certain scale.
+<img width="742" height="468" alt="image" src="https://github.com/user-attachments/assets/5af8656b-3ae8-40e6-93ea-db647c7bc4df" />
 
 
+---
 
+### **10. Future Trends**
 
+* Smaller, efficient models (e.g., distillation, quantization)
+* Multimodal AI (text, image, video, audio integration)
+* More responsible AI governance and regulation
+* AI assisting in scientific research and education
 
-
-
+---
 
 # Result
+ Generative AI and LLMs have redefined what machines can create and understand. While offering immense opportunities in automation, creativity, and productivity, they also require careful handling to ensure ethical use and societal benefit.
+
