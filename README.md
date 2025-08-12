@@ -118,5 +118,109 @@ Generative AI refers to AI techniques that create new data instances that resemb
 ![WhatsApp Image 2025-08-12 at 18 55 39_d4551e5a](https://github.com/user-attachments/assets/4c0a86c1-75ea-4bb2-a665-f944e4c157c9)
 
 
+#### **a. Generative Adversarial Networks (GANs)**
+
+* Two neural networks — *Generator* and *Discriminator* — compete to produce realistic outputs.
+* Used for: Image generation, deepfakes, super-resolution.
+
+#### **b. Variational Autoencoders (VAEs)**
+
+* Encoder-decoder architecture that learns latent representations.
+* Used for: Data compression, generating synthetic data.
+
+#### **c. Diffusion Models**
+
+* Learn to reverse a gradual noise-adding process to generate high-quality images.
+* Used for: Image synthesis (e.g., Stable Diffusion).
+
+---
+
+### **4. Introduction to Large Language Models (LLMs)**
+
+<img width="1300" height="752" alt="image" src="https://github.com/user-attachments/assets/1d83426b-0470-4eb3-bb25-2e96e74d1ad5" />
+
+
+LLMs are advanced AI models trained on massive amounts of text data to understand and generate human-like language. Examples include **GPT-3, GPT-4, BERT, LLaMA**.
+
+* **Core Capabilities:**
+
+  * Text completion
+  * Summarization
+  * Translation
+  * Reasoning
+
+---
+
+### **5. Architecture of LLMs**
+
+<img width="755" height="442" alt="image" src="https://github.com/user-attachments/assets/c933a5cd-f082-4efa-a70d-1e0dca24a248" />
+
+
+#### **a. Transformers**
+
+* Introduced in *“Attention is All You Need”* (2017).
+* Key component: **Self-Attention Mechanism** — allows the model to weigh the importance of words in a sentence relative to each other.
+* Advantages: Parallelization, scalability, handling long-range dependencies.
+
+#### **b. GPT (Generative Pretrained Transformer)**
+
+* Autoregressive model — predicts the next word based on context.
+* Trained in two stages: Pretraining (unsupervised) + Fine-tuning (supervised).
+
+#### **c. BERT (Bidirectional Encoder Representations from Transformers)**
+
+* Focuses on understanding context in both directions.
+
+---
+
+### **6. Training Process and Data Requirements**
+
+* **Steps:**
+
+  1. Data collection (web text, books, Wikipedia)
+  2. Tokenization (breaking text into smaller units)
+  3. Pretraining (learning language patterns)
+  4. Fine-tuning (specialized tasks)
+* **Requirements:**
+
+  * Billions of parameters
+  * High-performance GPUs/TPUs
+  * Massive datasets (terabytes of text)
+
+---
+
+### **7. Applications of Generative AI**
+<img width="318" height="159" alt="image" src="https://github.com/user-attachments/assets/009f69a5-1141-41a8-8de9-6f5a57b73c48" />
+
+
+* Chatbots and Virtual Assistants
+* Automated Content Generation
+* Image/Video Creation (Art, Advertising)
+* Code Generation (GitHub Copilot)
+* Data Augmentation for training AI models
+
+---
+
+### **8. Limitations and Ethical Considerations**
+
+* **Bias and Fairness**: Models inherit biases from training data.
+* **Misinformation**: Potential for generating fake news.
+* **Data Privacy**: Risk of revealing sensitive information.
+* **Environmental Impact**: Large carbon footprint from training.
+
+---
+
+### **9. Impact of Scaling in LLMs**
+
+* **Scaling Laws**: Increasing parameters, dataset size, and compute improves performance.
+* **Benefits**: Better reasoning, broader knowledge, improved fluency.
+* **Challenges**: Cost, energy usage, diminishing returns after a certain scale.
+
+
+
+
+
+
+
 
 # Result
