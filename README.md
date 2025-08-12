@@ -58,6 +58,65 @@ Step 7: Finalize and Export
 
 
 # Output
+### **Abstract**
+
+Generative Artificial Intelligence (Generative AI) has emerged as one of the most transformative fields in modern technology. It refers to AI systems that can create new data — text, images, audio, and more — that is both novel and realistic. Large Language Models (LLMs) such as GPT, BERT, and PaLM have revolutionized how humans interact with machines by enabling natural language understanding and generation at scale. This report covers the fundamental concepts of Generative AI, explores core architectures like Transformers, examines practical applications, analyzes the impact of scaling in LLMs, and discusses limitations, ethical concerns, and future trends.
+
+---
+
+### **Table of Contents**
+
+1. Introduction to AI and Machine Learning
+2. What is Generative AI?
+3. Types of Generative AI Models
+   * GANs
+   * VAEs
+   * Diffusion Models
+4. Introduction to Large Language Models (LLMs)
+5. Architecture of LLMs
+   * Transformers
+   * GPT
+   * BERT
+6. Training Process and Data Requirements
+7. Applications of Generative AI
+8. Limitations and Ethical Considerations
+9. Impact of Scaling in LLMs
+10. Future Trends
+
+---
+
+### **1. Introduction to AI and Machine Learning**
+
+Artificial Intelligence (AI) aims to create systems capable of performing tasks that normally require human intelligence. Machine Learning (ML) is a subset of AI that enables systems to learn from data and improve over time without explicit programming.
+
+* **AI Categories:**
+
+  * Narrow AI (task-specific)
+  * General AI (human-like intelligence — still theoretical)
+* **ML Types:**
+
+  * Supervised Learning
+  * Unsupervised Learning
+  * Reinforcement Learning
+
+---
+
+### **2. What is Generative AI?**
+
+Generative AI refers to AI techniques that create new data instances that resemble real-world data. Instead of just analyzing or classifying, generative models can *generate*.
+
+* **Key Feature:** Ability to learn patterns from large datasets and create new, similar content.
+* **Examples:**
+
+  * ChatGPT generating text
+  * DALL·E creating images from text prompts
+  * Audio generation for speech synthesis
+
+---
+
+### **3. Types of Generative AI Models**
+![WhatsApp Image 2025-08-12 at 18 55 39_d4551e5a](https://github.com/user-attachments/assets/4c0a86c1-75ea-4bb2-a665-f944e4c157c9)
+
 
 
 # Result
